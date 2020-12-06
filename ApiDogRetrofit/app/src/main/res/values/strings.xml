@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ApiDogRetrofit</string>
+    <string-array name="items">
+        <item>Seleccionar un Item</item>
+        <item>chihuahua</item>
+        <item>bullterrier</item>
+        <item>boxer</item>
+        <item>chow</item>
+    </string-array>
+</resources>

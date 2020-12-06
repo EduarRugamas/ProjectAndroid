@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Example Firebase</string>
+    <string name="add_item">Add item to Firebase</string>
+    <string name="insert_hero">Insert Hero</string>
+    <string name="save">Save</string>
+    <string name="insert_sex_of_hero">insert sex of hero</string>
+</resources>

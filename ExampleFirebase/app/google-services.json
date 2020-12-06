@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "262051575245",
+    "firebase_url": "https://example-rtimedatabase-kotlin.firebaseio.com",
+    "project_id": "example-rtimedatabase-kotlin",
+    "storage_bucket": "example-rtimedatabase-kotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262051575245:android:1bf90e9683e801402a4084",
+        "android_client_info": {
+          "package_name": "com.example.examplefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262051575245-goc2fvvjqquv06qdak4boe5m6mid01dr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3MSWnl5yKPrwkIOoCvGG6iGCo0bnvdRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262051575245-goc2fvvjqquv06qdak4boe5m6mid01dr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
